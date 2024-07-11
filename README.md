@@ -1,6 +1,6 @@
+![image](https://github.com/nrug13/Internet-provayderleri/assets/101041926/764aa4c2-4e11-4b7d-9794-e5ef1fd20694)
+![image](https://github.com/nrug13/Internet-provayderleri/assets/101041926/9ca702aa-7b32-42f6-a8cc-3bee5c9f1fac)
 
-![image](https://github.com/nrug13/Internet-provayderleri/assets/101041926/96b8862c-900e-4f2c-af06-a330e1c35068)
-![image](https://github.com/nrug13/Internet-provayderleri/assets/101041926/ba6335f2-f098-4676-9656-fcd7c72455ec)
 
 Other contributors: Aidan Ismayilova, Asmar Baghirova
 
