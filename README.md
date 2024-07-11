@@ -50,7 +50,5 @@ This dashboard provides insights into the various internet providers, their offe
 3. **Interpreting Charts**: The bar charts show average prices, helping identify the most and least expensive providers and technologies.
 4. **Detailed View**: Refer to the tables for a detailed breakdown of individual tariffs and their attributes.
 
-## Conclusion
-This dashboard serves as a powerful tool to analyze and compare internet service providers, their pricing, and the technologies they offer. By leveraging the filters and visualizations, users can gain meaningful insights to make informed decisions.
 
 ---
