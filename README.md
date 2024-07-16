@@ -2,7 +2,7 @@
 ![image](https://github.com/nrug13/Internet-provayderleri/assets/101041926/9ca702aa-7b32-42f6-a8cc-3bee5c9f1fac)
 
 
-Other contributors: Aidan Ismayilova, Asmar Baghirova
+Other contributors: Aida Ismayilova, Asmar Baghirova
 
 ---
 
